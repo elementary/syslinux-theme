@@ -27,3 +27,15 @@ Description: collection of boot loaders (ubuntu-precise theme)
  or from CD-ROMs.
  .
  This package contains the graphical bootloader theme for elementary luna.
+
+Package: syslinux-themes-elementary-isis
+Architecture: amd64 i386
+Depends: ${misc:Depends}, memtest86+, syslinux-common
+Enhances: extlinux
+Provides: syslinux-theme
+Description: collection of boot loaders (ubuntu-precise theme)
+ SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
+ btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
+ or from CD-ROMs.
+ .
+ This package contains the graphical bootloader theme for elementary OS Isis.

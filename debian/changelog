@@ -1,3 +1,9 @@
+syslinux-themes-elementary (2) saucy; urgency=low
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementaryos.org>  Sun, 25 Aug 2013 21:42:35 -0500
+
 syslinux-themes-elementary (1) precise; urgency=low
 
   * Initial release.
