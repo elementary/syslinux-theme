@@ -28,7 +28,7 @@ Description: collection of boot loaders (ubuntu-precise theme)
  .
  This package contains the graphical bootloader theme for elementary luna.
 
-Package: syslinux-themes-elementary-isis
+Package: syslinux-themes-elementary-freya
 Architecture: amd64 i386
 Depends: ${misc:Depends}, memtest86+, syslinux-common
 Enhances: extlinux
