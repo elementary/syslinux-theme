@@ -42,7 +42,7 @@ Description: collection of boot loaders (ubuntu-precise theme)
 
 Package: syslinux-themes-elementary-loki
 Architecture: amd64 i386
-Depends: ${misc:Depends}, memtest86+, syslinux-common
+Depends: ${misc:Depends}, syslinux-common
 Enhances: extlinux
 Provides: syslinux-theme
 Description: collection of boot loaders (ubuntu-precise theme)
