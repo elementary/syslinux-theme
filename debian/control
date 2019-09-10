@@ -7,7 +7,7 @@ Standards-Version: 3.9.2
 
 Package: syslinux-themes-elementary
 Architecture: amd64 i386
-Depends: ${misc:Depends}, syslinux-themes-elementary-hera
+Depends: ${misc:Depends}, syslinux-themes-elementary-juno
 Description: collection of boot loaders (theme metapackage)
  SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
  btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
